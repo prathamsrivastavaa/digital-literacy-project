@@ -1,0 +1,19 @@
+
+ 'Stay Safe Online' checklist 
+
+Use strong, unique passwords for each account (at least 12 characters with mix of letters, numbers, symbols).
+Turn on 2-Factor Authentication (2FA) for email, social media, and banking apps. 
+Never share OTPs or passwords—even with someone claiming to be from your bank or college.
+Install apps only from trusted sources like Google Play Store or Apple App Store. 
+ 
+Regularly update your phone, apps, and antivirus to fix security vulnerabilities. 
+
+Avoid using public Wi-Fi for sensitive tasks (banking, payments, logins).
+Do not scan random QR codes to receive money—QR scans are usually for sending money. 
+
+Always double-check UPI ID / recipient name before sending money.
+
+
+Report Cybercrime:
+1. National Cyber Crime Portal: https://cybercrime.gov.in
+2. Helpline Number: 1930
