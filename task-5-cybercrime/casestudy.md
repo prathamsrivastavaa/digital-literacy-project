@@ -8,3 +8,4 @@ Case Study: Cyberbullying
 -	Consequences
     - The consequences can be serious. Victims often experience stress, anxiety, loss of confidence, and difficulty focusing on studies. In severe cases, it may lead to depression or withdrawal from social life. Academically, performance may decline due to emotional distress. For perpetrators, there can be disciplinary action from the college and even legal consequences under cyber laws.
 - This case highlights the importance of responsible online behaviour, empathy, and reporting such incidents to authorities or platform moderators before they escalate.
+  
