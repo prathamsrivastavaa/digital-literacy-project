@@ -27,6 +27,6 @@ LinkedIn: https://www.linkedin.com/in/pratham-srivastava-b667743ba/
 
 GitHub: https://github.com/prathamsrivastavaa
 
-Kaggle: https://www.kaggle.com/meghaguleria
+Kaggle: https://www.kaggle.com/prathamsrivastavaa
 
-HackerRank: https://www.hackerrank.com/profile/meghaguleria25
+
