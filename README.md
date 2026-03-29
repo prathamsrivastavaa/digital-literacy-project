@@ -21,11 +21,11 @@ Task 5: Cybercrime Awareness Case Study: In this task, I explored a cybercrime s
 
 -->Links
 
-Google Form link of digital awareness quiz: 
+Google Form link of digital awareness quiz:  https://forms.gle/cPT8262ersFTcc3r9
 
-LinkedIn: https://www.linkedin.com/in/megha-guleria-89a9243a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+LinkedIn: https://www.linkedin.com/in/pratham-srivastava-b667743ba/
 
-GitHub: https://github.com/meghaaguleriaa
+GitHub: https://github.com/prathamsrivastavaa
 
 Kaggle: https://www.kaggle.com/meghaguleria
 
