@@ -34,6 +34,9 @@ I created a case study on cyberbullying, explaining how it happens, who it affec
 
 🔗 Project Links
 Google Form (Digital Awareness Quiz): https://forms.gle/cPT8262ersFTcc3r9
+
 LinkedIn Profile: https://www.linkedin.com/in/pratham-srivastava-b667743ba/
+
 GitHub Profile: https://github.com/prathamsrivastavaa
+
 Kaggle Profile: https://www.kaggle.com/prathamsrivastavaa
