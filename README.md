@@ -1,32 +1,39 @@
-# digital-literacy-project
+📌 Project Overview
 
---> Project Overview This project helps understands and apply digital literacy skills essential in this fast paced online world for students in today’s digital world. It focuses on how we use digital platforms in a more responsible, safe, and professional way. Majporly the professional online presence, safe internet practices, communication skills, and the use of digital tools.
+This project focuses on understanding and applying digital literacy skills that are essential for students in today’s fast-paced digital world. It highlights how we can use digital platforms in a safe, responsible, and professional manner. The main areas covered in this project include building a professional online presence, following safe internet practices, improving communication skills, and effectively using digital tools in daily life.
 
---> Name : Pratham Srivastava 
---> Reg no. 25BCE10064
+👤 Student Details
 
--->Objective The main aim of this project is to learn how to use technology properly, build a professional presence, and improve digital communication skills.
+Name: Pratham Srivastava
+Reg No.: 25BCE10064
 
---> Modules/ Tasks Summary
+🎯 Objective
 
-Task 1: Infographic Creation: In this task, I created an infographic using Canva to explain digital literacy, useful tools, and safe internet practices in a simple , structured and clear way.
+The main objective of this project is to learn how to use digital technology properly, develop a professional presence, and improve digital communication skills that are useful in both academic and real-world situations.
 
-Task 2: Professional Profile Setup: In this task, I created professional accounts on LinkedIn, GitHub and Kaggle. This helped me start building my online presence and showcase my skills and projects.
+📚 Modules / Tasks Summary
+Task 1: Infographic Creation
 
-Task 3: Course Completion & Google Form: For this task, I completed Python(Basic) course on HackerRank and the the certificate is attached in the task3 folder. And made a Google Form on " Digital Awareness quiz" with different types of questions style , MCQ and Short answer. The google form link is given at the end.
+I created an infographic using Canva to explain digital literacy, useful tools, and safe internet practices in a simple, clear, and visually structured way.
 
-Task 4: Digital Communication & Etiquette: This task was about learning the dos and don’ts of social media and email writing. Learning how poor communication, vague information and misunderstandings can create problems and therefore clarity and proper tone is important. In mails , subject lines , salutations make up the whole email better.
+Task 2: Professional Profile Setup
 
-Task 5: Cybercrime Awareness Case Study: In this task, I created a case study on cyberbullying, explaining how it happens, who it affects, and its consequences. I also prepared a “Stay Safe Online” checklist with practical tips, including UPI safety measures and cybercrime reporting through cybercrime.gov.in and helpline 1930. This task helped me understand online risks and how to stay safe.
+I created professional profiles on LinkedIn, GitHub, and Kaggle. This helped me start building my online presence and understand how to showcase my skills and projects.
 
--->Links
+Task 3: Coding Practice & Google Form
 
-Google Form link of digital awareness quiz:  https://forms.gle/cPT8262ersFTcc3r9
+In this task, I completed the Python (Basic) course on HackerRank, and the certificate is included in the task folder. I also created a “Digital Awareness Quiz” using Google Forms with both MCQ and short answer questions.
 
-LinkedIn: https://www.linkedin.com/in/pratham-srivastava-b667743ba/
+Task 4: Digital Communication & Etiquette
 
-GitHub: https://github.com/prathamsrivastavaa
+This task focused on understanding the do’s and don’ts of social media and email writing. It showed how unclear or unprofessional communication can lead to misunderstandings, and why proper tone, subject lines, and structure are important.
 
-Kaggle: https://www.kaggle.com/prathamsrivastavaa
+Task 5: Cybercrime Awareness Case Study
 
+I created a case study on cyberbullying, explaining how it happens, who it affects, and its consequences. I also made a “Stay Safe Online” checklist with practical tips, including UPI safety and reporting through cybercrime.gov.in and helpline 1930.
 
+🔗 Project Links
+Google Form (Digital Awareness Quiz): https://forms.gle/cPT8262ersFTcc3r9
+LinkedIn Profile: https://www.linkedin.com/in/pratham-srivastava-b667743ba/
+GitHub Profile: https://github.com/prathamsrivastavaa
+Kaggle Profile: https://www.kaggle.com/prathamsrivastavaa
