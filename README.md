@@ -17,7 +17,7 @@ Task 3: Course Completion & Google Form: For this task, I completed Python(Basic
 
 Task 4: Digital Communication & Etiquette: This task was about learning the dos and don’ts of social media and email writing. Learning how poor communication, vague information and misunderstandings can create problems and therefore clarity and proper tone is important. In mails , subject lines , salutations make up the whole email better.
 
-Task 5: Cybercrime Awareness Case Study: In this task, I explored a cybercrime scenario to understand how online frauds happen and how they can be prevented and learnt about the online safety and security. I studied a case related to digital payments scams and analyzed what went wrong and how it could have been avoided.
+Task 5: Cybercrime Awareness Case Study: In this task, I created a case study on cyberbullying, explaining how it happens, who it affects, and its consequences. I also prepared a “Stay Safe Online” checklist with practical tips, including UPI safety measures and cybercrime reporting through cybercrime.gov.in and helpline 1930. This task helped me understand online risks and how to stay safe.
 
 -->Links
 
