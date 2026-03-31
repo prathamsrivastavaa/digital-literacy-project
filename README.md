@@ -1,17 +1,17 @@
-📌 Project Overview
+Project Overview
 
 This project focuses on understanding and applying digital literacy skills that are essential for students in today’s fast-paced digital world. It highlights how we can use digital platforms in a safe, responsible, and professional manner. The main areas covered in this project include building a professional online presence, following safe internet practices, improving communication skills, and effectively using digital tools in daily life.
 
-👤 Student Details
+Student Details
 
 Name: Pratham Srivastava
 Reg No.: 25BCE10064
 
-🎯 Objective
+Objective
 
 The main objective of this project is to learn how to use digital technology properly, develop a professional presence, and improve digital communication skills that are useful in both academic and real-world situations.
 
-📚 Modules / Tasks Summary
+Modules / Tasks Summary
 Task 1: Infographic Creation
 
 I created an infographic using Canva to explain digital literacy, useful tools, and safe internet practices in a simple, clear, and visually structured way.
@@ -32,7 +32,7 @@ Task 5: Cybercrime Awareness Case Study
 
 I created a case study on cyberbullying, explaining how it happens, who it affects, and its consequences. I also made a “Stay Safe Online” checklist with practical tips, including UPI safety and reporting through cybercrime.gov.in and helpline 1930.
 
-🔗 Project Links
+Project Links
 Google Form (Digital Awareness Quiz): https://forms.gle/cPT8262ersFTcc3r9
 
 LinkedIn Profile: https://www.linkedin.com/in/pratham-srivastava-b667743ba/
